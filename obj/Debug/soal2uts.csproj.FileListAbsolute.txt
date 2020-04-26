@@ -1,0 +1,6 @@
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\bin\Debug\soal2uts.exe.config
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\bin\Debug\soal2uts.exe
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\bin\Debug\soal2uts.pdb
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\obj\Debug\soal2uts.csprojResolveAssemblyReference.cache
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\obj\Debug\soal2uts.exe
+E:\Dipta\Tugas Kuliah\4\Pemrograman Berorientasi Objek\soal2uts\obj\Debug\soal2uts.pdb
